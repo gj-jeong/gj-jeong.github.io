@@ -118,3 +118,4 @@ skills:
 I am a senior undergraduate student in <a href="https://ee.kaist.ac.kr/en/">Electrical Engineering, KAIST</a>(Korea Advanced Institute of Science and Technology). I am currently at <a href="https://ece.gatech.edu/">Georgia Institute of Technology</a> from the spring semester of 2024 for an exchange program and research internship. <br>
 <br>
 My research objective is in the area of analog circuit design and artificial intelligence application. Through my research, I would like to leverage artificial intelligence to address challenges in the field of traditional analog circuit design. 
+---
